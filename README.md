@@ -1,0 +1,3 @@
+# TodoReactNative
+## Application of the tutorial [ToDo](https://blog.eduonix.com/web-programming-tutorials/learn-build-react-native-todo-application-part-1/)
+This code represent the execution of the tutorial in the link above, very few diffrences exist in the code such as some styles...
